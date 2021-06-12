@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-Vamos desenvolver um app no React Native para trabalhar com Mapas e Geolocalização.
+Um app no React Native para trabalhar com Mapas e Geolocalização.
 
 ## 🚀 Tecnologias
 
